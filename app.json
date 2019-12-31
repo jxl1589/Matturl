@@ -1,10 +1,7 @@
 {
-  "name": "My Domain Sample",
-  "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
-  "website": "https://www.salesforce.com/platform/identity",
-  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
-  "keywords": ["salesforce"],
+  "name": "URL Creation",
+  "description": "Create a URL to customize Salesforce Domain page",
+  "repository": "https://github.com/jxl1589/Matturl",
   "success_url": "/",
   "env": {
     "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
